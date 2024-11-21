@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <h3 align="center">¡Hey 👋! <b>@ETZADEV</b> 👨🏻‍💻 aquí</h3>
+   <h3 align="center">¡Hey 👋! <b>@etzadev</b> 👨🏻‍💻 aquí</h3>
 </p>
 
 ___
