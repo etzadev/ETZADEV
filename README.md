@@ -5,7 +5,7 @@
 ___
 
 <p align="center">
-  <img src="https://i.postimg.cc/x1xLkg9j/Banner.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://res.cloudinary.com/dp2lig5va/image/upload/v1732227843/banner-etzadev_l2wh1j.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 Soy un desarrollador junior apasionado por el desarrollo web. En el frontend, trabajo con React para crear interfaces de usuario interactivas. En el backend, utilizo Node.js para construir servidores y manejar solicitudes HTTP. Mi objetivo es aprender, crecer y contribuir al emocionante mundo del desarrollo web. 😊🚀
